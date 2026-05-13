@@ -34,8 +34,7 @@ export default function HeroSection() {
 
           {/* Sub */}
           <p className="mt-5 max-w-xl text-base leading-relaxed text-gray-500">
-            Most ops teams don&apos;t realise how much manual round labour costs vs what
-            automated monitoring would. Calculate your true exposure in 30 seconds.
+            Measure the hidden revenue loss caused by technician idle time and identify recoverable billable opportunities instantly.
           </p>
 
           {/* Metric Pills */}
